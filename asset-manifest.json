@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movies-Tv-Series-Website/static/css/main.94004bdd.css",
+    "main.js": "/Movies-Tv-Series-Website/static/js/main.a454f1c7.js",
+    "index.html": "/Movies-Tv-Series-Website/index.html",
+    "main.94004bdd.css.map": "/Movies-Tv-Series-Website/static/css/main.94004bdd.css.map",
+    "main.a454f1c7.js.map": "/Movies-Tv-Series-Website/static/js/main.a454f1c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94004bdd.css",
+    "static/js/main.a454f1c7.js"
+  ]
+}
