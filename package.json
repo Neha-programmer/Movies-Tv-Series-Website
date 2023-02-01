@@ -1,5 +1,6 @@
 {
   "name": "movies-tv-series-website",
+  "homepage": "https://github.com/Neha-programmer/Movies-Tv-Series-Website.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
